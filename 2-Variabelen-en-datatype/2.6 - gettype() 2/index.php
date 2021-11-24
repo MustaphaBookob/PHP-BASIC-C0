@@ -1,5 +1,5 @@
 <?php
-    $voornaam = "Tom ";
+    $voornaam = "tom";
     echo gettype($voornaam);
 
     $leeftijd = 17 ;
