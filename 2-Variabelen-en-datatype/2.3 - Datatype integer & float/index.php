@@ -3,10 +3,13 @@
 <body>
 
 <?php
-$leeftijd = 55;
-echo $leeftijd;
-$melkprijs = 0.98;
-echo $melkprijs;
+ $leeftijd = 17;
+ $melkprijs = 0.98;
+ $regeltekst1= "mijn leeftijd is $leeftijd";
+ $regeltekst2="een pak melk kost $melkprijs";
+
+ echo $regeltekst1;
+ echo $regeltekst2;
 ?>
 
 </body>
