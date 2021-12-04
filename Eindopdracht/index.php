@@ -8,6 +8,9 @@
  * Verder hoef je geen code te schrijven op deze pagina.
  */
 
+ 
+require 'bitcoinData.php';
+
 
 
 /*******************************************************************************************************************/
